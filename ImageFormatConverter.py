@@ -6,7 +6,7 @@
 # ![imageConverter.JPG](attachment:imageConverter.JPG)
 
 # For this application you need to install following libraries-
-# - thinter
+# - tkinter
 # - pydicom
 # - pillow-heif
 # - numpy
