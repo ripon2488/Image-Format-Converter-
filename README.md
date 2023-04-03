@@ -10,7 +10,7 @@ Many times we need to convert images from one format to another format. You can 
 # Features
 Many times we need to convert images from one format to another format.
 You can make an Image Conver by your own using Tkinter. For this purpose you required to install following Library:
-Libraries:-
+
 
 - tkinter
 - pydicom
