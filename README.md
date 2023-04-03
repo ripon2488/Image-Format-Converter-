@@ -1,5 +1,4 @@
-# Image-Format-Converter-
-Image Format Converter
+# Image Format Converter
 <div align="center">
       <h1> <img src="https://github.com/ripon2488/Image-Format-Converter-/blob/main/Capture6.JPG" width="80px"><br/>Image File Format Converter</h1>
      </div>
